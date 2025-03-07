@@ -1,0 +1,10 @@
+{
+    "game":
+    {
+        "name": "CashFeverHT",
+        "id": "300-9038-0",
+        "framework": "jet",
+        "version": "0.0.1",
+        "studio": "interactive"
+    }
+}

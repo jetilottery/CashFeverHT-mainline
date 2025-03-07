@@ -1,0 +1,238 @@
+<font>
+    <info face="CashFeverFont" size="410"/>
+    <common lineHeight="410" scaleW="1648" scaleH="1752" pages="1"/>
+    <pages>
+        <page id="0" file="CashFeverFont.png"/>
+    </pages>
+    <chars count="55">
+        <char id="48" x="889" y="876" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- 0 -->
+        <char id="49" x="1233" y="1170" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- 1 -->
+        <char id="50" x="1239" y="0" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- 2 -->
+        <char id="51" x="1409" y="292" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- 3 -->
+        <char id="52" x="0" y="292" width="190" height="291" xoffset="0" yoffset="119" xadvance="206"/><!-- 4 -->
+        <char id="53" x="1237" y="292" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- 5 -->
+        <char id="54" x="1405" y="882" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- 6 -->
+        <char id="55" x="1411" y="0" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- 7 -->
+        <char id="56" x="1233" y="584" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- 8 -->
+        <char id="57" x="544" y="1168" width="172" height="291" xoffset="0" yoffset="119" xadvance="188"/><!-- 9 -->
+        <char id="120" x="189" y="876" width="182" height="291" xoffset="0" yoffset="119" xadvance="198"/><!-- x -->
+        <char id="44" x="714" y="1462" width="80" height="112" xoffset="0" yoffset="333" xadvance="96"/><!-- , -->
+        <char id="46" x="1527" y="1174" width="120" height="291" xoffset="0" yoffset="119" xadvance="136"/><!-- . -->
+        <char id="47" x="189" y="1461" width="127" height="219" xoffset="0" yoffset="211" xadvance="143"/><!-- / -->
+        <char id="58" x="714" y="1575" width="77" height="144" xoffset="0" yoffset="265" xadvance="93"/><!-- : -->
+        <char id="61" x="561" y="130" width="126" height="103" xoffset="0" yoffset="269" xadvance="142"/><!-- = -->
+        <char id="43" x="561" y="0" width="126" height="129" xoffset="0" yoffset="256" xadvance="142"/><!-- + -->
+        <char id="45" x="189" y="1681" width="103" height="60" xoffset="0" yoffset="304" xadvance="119"/><!-- - -->
+        <char id="163" x="189" y="584" width="187" height="291" xoffset="0" yoffset="119" xadvance="203"/><!-- £ -->
+        <char id="36" x="1061" y="1214" width="171" height="341" xoffset="0" yoffset="92" xadvance="187"/><!-- $ -->
+        <char id="1083" x="1067" y="0" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- л -->
+        <char id="66" x="0" y="876" width="188" height="291" xoffset="0" yoffset="119" xadvance="204"/><!-- B -->
+        <char id="82" x="191" y="292" width="187" height="291" xoffset="0" yoffset="119" xadvance="203"/><!-- R -->
+        <char id="67" x="541" y="1460" width="172" height="291" xoffset="0" yoffset="119" xadvance="188"/><!-- C -->
+        <char id="85" x="367" y="1460" width="173" height="291" xoffset="0" yoffset="119" xadvance="189"/><!-- U -->
+        <char id="65" x="0" y="0" width="202" height="291" xoffset="0" yoffset="119" xadvance="218"/><!-- A -->
+        <char id="72" x="367" y="1168" width="176" height="291" xoffset="0" yoffset="119" xadvance="192"/><!-- H -->
+        <char id="70" x="721" y="584" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- F -->
+        <char id="165" x="0" y="1460" width="188" height="291" xoffset="0" yoffset="119" xadvance="204"/><!-- ¥ -->
+        <char id="75" x="0" y="584" width="188" height="291" xoffset="0" yoffset="119" xadvance="204"/><!-- K -->
+        <char id="269" x="717" y="876" width="171" height="292" xoffset="0" yoffset="119" xadvance="187"/><!-- č -->
+        <char id="107" x="889" y="1460" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- k -->
+        <char id="114" x="893" y="338" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- r -->
+        <char id="8364" x="189" y="1168" width="177" height="292" xoffset="0" yoffset="119" xadvance="193"/><!-- € -->
+        <char id="116" x="717" y="1169" width="171" height="292" xoffset="0" yoffset="119" xadvance="187"/><!-- t -->
+        <char id="8377" x="545" y="876" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- ₹ -->
+        <char id="77" x="379" y="292" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- M -->
+        <char id="8369" x="372" y="876" width="172" height="291" xoffset="0" yoffset="119" xadvance="188"/><!-- ₱ -->
+        <char id="122" x="377" y="584" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- z -->
+        <char id="322" x="551" y="292" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- ł -->
+        <char id="108" x="389" y="0" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- l -->
+        <char id="101" x="1061" y="922" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- e -->
+        <char id="105" x="549" y="584" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- i -->
+        <char id="83" x="1065" y="292" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- S -->
+        <char id="3647" x="723" y="0" width="171" height="337" xoffset="0" yoffset="102" xadvance="187"/><!-- ฿ -->
+        <char id="78" x="203" y="0" width="185" height="291" xoffset="0" yoffset="119" xadvance="201"/><!-- N -->
+        <char id="84" x="889" y="1168" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- T -->
+        <char id="1074" x="895" y="0" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- в -->
+        <char id="88" x="0" y="1168" width="188" height="291" xoffset="0" yoffset="119" xadvance="204"/><!-- X -->
+        <char id="73" x="1061" y="630" width="171" height="291" xoffset="0" yoffset="119" xadvance="187"/><!-- I -->
+        <char id="39" x="1405" y="1174" width="121" height="291" xoffset="0" yoffset="119" xadvance="137"/><!-- ' -->
+        <char id="8355" x="1233" y="876" width="171" height="293" xoffset="0" yoffset="119" xadvance="187"/><!-- ₣ -->
+        <char id="8372" x="1405" y="584" width="171" height="297" xoffset="0" yoffset="119" xadvance="187"/><!-- ₴ -->
+        <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="111"/><!--   -->
+        <char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="888"/><!-- 	 -->
+    </chars>
+    <kernings count="147">
+        <kerning first="48" second="48" amount="-30"/> <!-- 00 -->
+        <kerning first="48" second="49" amount="-30"/> <!-- 01 -->
+        <kerning first="48" second="50" amount="-30"/> <!-- 02 -->
+        <kerning first="48" second="51" amount="-30"/> <!-- 03 -->
+        <kerning first="48" second="52" amount="-30"/> <!-- 04 -->
+        <kerning first="48" second="53" amount="-30"/> <!-- 05 -->
+        <kerning first="48" second="54" amount="-30"/> <!-- 06 -->
+        <kerning first="48" second="55" amount="-30"/> <!-- 07 -->
+        <kerning first="48" second="56" amount="-30"/> <!-- 08 -->
+        <kerning first="48" second="57" amount="-30"/> <!-- 09 -->
+        <kerning first="49" second="48" amount="-65"/> <!-- 10 -->
+        <kerning first="49" second="49" amount="-55"/> <!-- 11 -->
+        <kerning first="49" second="50" amount="-55"/> <!-- 12 -->
+        <kerning first="49" second="51" amount="-55"/> <!-- 13 -->
+        <kerning first="49" second="52" amount="-55"/> <!-- 14 -->
+        <kerning first="49" second="53" amount="-70"/> <!-- 15 -->
+        <kerning first="49" second="54" amount="-55"/> <!-- 16 -->
+        <kerning first="49" second="55" amount="-55"/> <!-- 17 -->
+        <kerning first="49" second="56" amount="-55"/> <!-- 18 -->
+        <kerning first="49" second="57" amount="-55"/> <!-- 19 -->
+        <kerning first="50" second="48" amount="-30"/> <!-- 20 -->
+        <kerning first="50" second="49" amount="-30"/> <!-- 21 -->
+        <kerning first="50" second="50" amount="-30"/> <!-- 22 -->
+        <kerning first="50" second="51" amount="-30"/> <!-- 23 -->
+        <kerning first="50" second="52" amount="-30"/> <!-- 24 -->
+        <kerning first="50" second="53" amount="-45"/> <!-- 25 -->
+        <kerning first="50" second="54" amount="-30"/> <!-- 26 -->
+        <kerning first="50" second="55" amount="-30"/> <!-- 27 -->
+        <kerning first="50" second="56" amount="-30"/> <!-- 28 -->
+        <kerning first="50" second="57" amount="-30"/> <!-- 29 -->
+        <kerning first="51" second="48" amount="-30"/> <!-- 30 -->
+        <kerning first="51" second="49" amount="-30"/> <!-- 31 -->
+        <kerning first="51" second="50" amount="-30"/> <!-- 32 -->
+        <kerning first="51" second="51" amount="-30"/> <!-- 33 -->
+        <kerning first="51" second="52" amount="-30"/> <!-- 34 -->
+        <kerning first="51" second="53" amount="-30"/> <!-- 35 -->
+        <kerning first="51" second="54" amount="-30"/> <!-- 36 -->
+        <kerning first="51" second="55" amount="-30"/> <!-- 37 -->
+        <kerning first="51" second="56" amount="-30"/> <!-- 38 -->
+        <kerning first="51" second="57" amount="-30"/> <!-- 39 -->
+        <kerning first="52" second="48" amount="-30"/> <!-- 40 -->
+        <kerning first="52" second="49" amount="-30"/> <!-- 41 -->
+        <kerning first="52" second="50" amount="-30"/> <!-- 42 -->
+        <kerning first="52" second="51" amount="-30"/> <!-- 43 -->
+        <kerning first="52" second="52" amount="-30"/> <!-- 44 -->
+        <kerning first="52" second="53" amount="-30"/> <!-- 45 -->
+        <kerning first="52" second="54" amount="-30"/> <!-- 46 -->
+        <kerning first="52" second="55" amount="-30"/> <!-- 47 -->
+        <kerning first="52" second="56" amount="-30"/> <!-- 48 -->
+        <kerning first="52" second="57" amount="-30"/> <!-- 49 -->
+        <kerning first="53" second="48" amount="-35"/> <!-- 50 -->
+        <kerning first="53" second="49" amount="-30"/> <!-- 51 -->
+        <kerning first="53" second="50" amount="-30"/> <!-- 52 -->
+        <kerning first="53" second="51" amount="-30"/> <!-- 53 -->
+        <kerning first="53" second="52" amount="-30"/> <!-- 54 -->
+        <kerning first="53" second="53" amount="-30"/> <!-- 55 -->
+        <kerning first="53" second="54" amount="-30"/> <!-- 56 -->
+        <kerning first="53" second="55" amount="-30"/> <!-- 57 -->
+        <kerning first="53" second="56" amount="-30"/> <!-- 58 -->
+        <kerning first="53" second="57" amount="-30"/> <!-- 59 -->
+        <kerning first="54" second="48" amount="-30"/> <!-- 60 -->
+        <kerning first="54" second="49" amount="-30"/> <!-- 61-->
+        <kerning first="54" second="50" amount="-30"/> <!-- 62 -->
+        <kerning first="54" second="51" amount="-30"/> <!-- 63 -->
+        <kerning first="54" second="52" amount="-30"/> <!-- 64 -->
+        <kerning first="54" second="53" amount="-30"/> <!-- 65 -->
+        <kerning first="54" second="54" amount="-30"/> <!-- 66 -->
+        <kerning first="54" second="55" amount="-30"/> <!-- 67 -->
+        <kerning first="54" second="56" amount="-30"/> <!-- 68 -->
+        <kerning first="54" second="57" amount="-30"/> <!-- 69 -->
+        <kerning first="55" second="48" amount="-30"/> <!-- 70 -->
+        <kerning first="55" second="49" amount="-30"/> <!-- 71 -->
+        <kerning first="55" second="50" amount="-30"/> <!-- 72 -->
+        <kerning first="55" second="51" amount="-30"/> <!-- 73 -->
+        <kerning first="55" second="52" amount="-30"/> <!-- 74 -->
+        <kerning first="55" second="53" amount="-30"/> <!-- 75 -->
+        <kerning first="55" second="54" amount="-30"/> <!-- 76 -->
+        <kerning first="55" second="55" amount="-30"/> <!-- 77 -->
+        <kerning first="55" second="56" amount="-30"/> <!-- 78 -->
+        <kerning first="55" second="57" amount="-30"/> <!-- 79 -->
+        <kerning first="56" second="48" amount="-30"/> <!-- 80 -->
+        <kerning first="56" second="49" amount="-30"/> <!-- 81 -->
+        <kerning first="56" second="50" amount="-30"/> <!-- 82 -->
+        <kerning first="56" second="51" amount="-30"/> <!-- 83 -->
+        <kerning first="56" second="52" amount="-30"/> <!-- 84 -->
+        <kerning first="56" second="53" amount="-30"/> <!-- 85 -->
+        <kerning first="56" second="54" amount="-30"/> <!-- 86 -->
+        <kerning first="56" second="55" amount="-30"/> <!-- 87 -->
+        <kerning first="56" second="56" amount="-30"/> <!-- 88 -->
+        <kerning first="56" second="57" amount="-30"/> <!-- 89 -->
+        <kerning first="57" second="48" amount="-30"/> <!-- 90 -->
+        <kerning first="57" second="49" amount="-30"/> <!-- 91 -->
+        <kerning first="57" second="50" amount="-30"/> <!-- 92 -->
+        <kerning first="57" second="51" amount="-30"/> <!-- 93 -->
+        <kerning first="57" second="52" amount="-30"/> <!-- 94 -->
+        <kerning first="57" second="53" amount="-30"/> <!-- 95 -->
+        <kerning first="57" second="54" amount="-30"/> <!-- 96 -->
+        <kerning first="57" second="55" amount="-30"/> <!-- 97 -->
+        <kerning first="57" second="56" amount="-30"/> <!-- 98 -->
+        <kerning first="57" second="57" amount="-30"/> <!-- 99 -->
+        <!-- PUNCTUATION -->
+
+        <kerning first="44" second="48" amount="-35"/> <!-- ,0 -->
+        <kerning first="46" second="48" amount="-35"/> <!-- .0 -->
+
+        <kerning first="49" second="44" amount="-60"/> <!-- 1, -->
+        <kerning first="50" second="44" amount="-40"/> <!-- 2, -->
+        <kerning first="51" second="44" amount="-40"/> <!-- 3, -->
+        <kerning first="52" second="44" amount="-40"/> <!-- 4, -->
+        <kerning first="53" second="44" amount="-40"/> <!-- 5, -->
+        <kerning first="54" second="44" amount="-40"/> <!-- 6, -->
+        <kerning first="55" second="44" amount="-40"/> <!-- 7, -->
+        <kerning first="56" second="44" amount="-40"/> <!-- 8, -->
+        <kerning first="57" second="44" amount="-40"/> <!-- 9, -->
+        <kerning first="49" second="46" amount="-30"/> <!-- 1. -->
+        <kerning first="50" second="46" amount="-30"/> <!-- 2. -->
+        <kerning first="51" second="46" amount="-30"/> <!-- 3. -->
+        <kerning first="52" second="46" amount="-30"/> <!-- 4. -->
+        <kerning first="53" second="46" amount="-30"/> <!-- 5. -->
+        <kerning first="54" second="46" amount="-30"/> <!-- 6. -->
+        <kerning first="55" second="46" amount="-30"/> <!-- 7. -->
+        <kerning first="56" second="46" amount="-30"/> <!-- 8.-->
+        <kerning first="57" second="46" amount="-30"/> <!-- 9.-->
+        <kerning first="48" second="46" amount="-30"/> <!-- 0.-->
+        <!-- CURRENCY -->
+        <kerning first="36" second="48" amount="-30"/> <!-- $0 -->
+        <kerning first="36" second="49" amount="-57"/> <!-- $1 -->
+        <kerning first="36" second="50" amount="-35"/> <!-- $2 -->
+        <kerning first="36" second="51" amount="-35"/> <!-- $3 -->
+        <kerning first="36" second="52" amount="-35"/> <!-- $4 -->
+        <kerning first="36" second="53" amount="-35"/> <!-- $5 -->
+        <kerning first="36" second="54" amount="-35"/> <!-- $6 -->
+        <kerning first="36" second="55" amount="-35"/> <!-- $7 -->
+        <kerning first="36" second="56" amount="-35"/> <!-- $8 -->
+        <kerning first="36" second="57" amount="-35"/> <!-- $9 -->
+        <kerning first="107" second="114" amount="-30"/> <!-- kr -->
+        <kerning first="114" second="49" amount="-30"/> <!-- r1 -->
+        <kerning first="114" second="50" amount="-30"/> <!-- r2 -->
+        <kerning first="114" second="51" amount="-30"/> <!-- r3 -->
+        <kerning first="114" second="52" amount="-30"/> <!-- r4 -->
+        <kerning first="114" second="53" amount="-30"/> <!-- r5 -->
+        <kerning first="114" second="54" amount="-30"/> <!-- r6 -->
+        <kerning first="114" second="55" amount="-30"/> <!-- r7 -->
+        <kerning first="114" second="56" amount="-30"/> <!-- r8 -->
+        <kerning first="114" second="57" amount="-30"/> <!-- r9 -->
+        <kerning first="8364" second="48" amount="-30"/> <!-- €0 -->
+        <kerning first="8364" second="49" amount="-30"/> <!-- €1 -->
+        <kerning first="8364" second="50" amount="-30"/> <!-- €2 -->
+        <kerning first="8364" second="51" amount="-30"/> <!-- €3 -->
+        <kerning first="8364" second="52" amount="-30"/> <!-- €4 -->
+        <kerning first="8364" second="53" amount="-30"/> <!-- €5 -->
+        <kerning first="8364" second="54" amount="-30"/> <!-- €6 -->
+        <kerning first="8364" second="55" amount="-30"/> <!-- €7 -->
+        <kerning first="8364" second="56" amount="-30"/> <!-- €8 -->
+        <kerning first="8364" second="57" amount="-30"/> <!-- €9 -->
+        <kerning first="8364" second="32" amount="-60"/> <!--   -->
+        <kerning first="8364" second="9" amount="-60"/> <!--    -->
+        <kerning first="163" second="48" amount="-30"/> <!-- £0 -->
+        <kerning first="163" second="48" amount="-30"/> <!-- £1 -->
+        <kerning first="163" second="48" amount="-30"/> <!-- £2 -->
+        <kerning first="163" second="48" amount="-30"/> <!-- £3 -->
+        <kerning first="163" second="48" amount="-30"/> <!-- £4 -->
+        <kerning first="163" second="48" amount="-30"/> <!-- £5 -->
+        <kerning first="163" second="48" amount="-30"/> <!-- £6 -->
+        <kerning first="163" second="48" amount="-30"/> <!-- £7 -->
+        <kerning first="163" second="48" amount="-30"/> <!-- £8 -->
+        <kerning first="163" second="48" amount="-30"/> <!-- £9 -->
+
+        <kerning first="122" second="322" amount="-60"/> <!-- zł -->
+        <kerning first="32" second="122" amount="-60"/> <!--  z -->
+        <kerning first="9" second="122" amount="-60"/> <!--   z -->
+        <kerning first="48" second="122" amount="-30"/> <!-- 0z -->
+    </kernings>
+</font>

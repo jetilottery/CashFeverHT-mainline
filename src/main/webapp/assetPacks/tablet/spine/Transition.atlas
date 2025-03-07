@@ -1,0 +1,456 @@
+
+Transition.png
+size: 939,931
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PartShower/Gshower_00
+  rotate: false
+  xy: 936, 928
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_03
+  rotate: false
+  xy: 2, 726
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_04
+  rotate: false
+  xy: 364, 726
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_05
+  rotate: true
+  xy: 726, 569
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_06
+  rotate: false
+  xy: 2, 521
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_07
+  rotate: false
+  xy: 364, 521
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_08
+  rotate: true
+  xy: 726, 207
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_09
+  rotate: false
+  xy: 2, 2
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_10
+  rotate: false
+  xy: 364, 2
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_11
+  rotate: false
+  xy: 2, 316
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_12
+  rotate: false
+  xy: 364, 316
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_59
+  rotate: false
+  xy: 931, 926
+  size: 3, 3
+  orig: 360, 203
+  offset: 200, 1
+  index: -1
+
+Transition2.png
+size: 931,931
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PartShower/Gshower_13
+  rotate: false
+  xy: 2, 726
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_14
+  rotate: false
+  xy: 364, 726
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_15
+  rotate: true
+  xy: 726, 569
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_16
+  rotate: false
+  xy: 2, 521
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_17
+  rotate: false
+  xy: 364, 521
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_18
+  rotate: true
+  xy: 726, 207
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_19
+  rotate: false
+  xy: 2, 2
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_20
+  rotate: false
+  xy: 364, 2
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_21
+  rotate: false
+  xy: 2, 316
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_22
+  rotate: false
+  xy: 364, 316
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+
+Transition3.png
+size: 931,931
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PartShower/Gshower_23
+  rotate: false
+  xy: 2, 726
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_24
+  rotate: false
+  xy: 364, 726
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_25
+  rotate: true
+  xy: 726, 569
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_26
+  rotate: false
+  xy: 2, 521
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_27
+  rotate: false
+  xy: 364, 521
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_28
+  rotate: true
+  xy: 726, 207
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_29
+  rotate: false
+  xy: 2, 2
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_30
+  rotate: false
+  xy: 364, 2
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_31
+  rotate: false
+  xy: 2, 316
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_32
+  rotate: false
+  xy: 364, 316
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+
+Transition4.png
+size: 931,931
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PartShower/Gshower_33
+  rotate: false
+  xy: 2, 726
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_34
+  rotate: false
+  xy: 364, 726
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_35
+  rotate: true
+  xy: 726, 569
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_36
+  rotate: false
+  xy: 2, 521
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_37
+  rotate: false
+  xy: 364, 521
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_38
+  rotate: true
+  xy: 726, 207
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_39
+  rotate: false
+  xy: 2, 2
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_40
+  rotate: false
+  xy: 364, 2
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_41
+  rotate: false
+  xy: 2, 316
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_42
+  rotate: false
+  xy: 364, 316
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+
+Transition5.png
+size: 931,931
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PartShower/Gshower_43
+  rotate: false
+  xy: 2, 726
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_44
+  rotate: false
+  xy: 364, 726
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_45
+  rotate: true
+  xy: 726, 569
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_46
+  rotate: false
+  xy: 2, 521
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_47
+  rotate: false
+  xy: 364, 521
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_48
+  rotate: true
+  xy: 726, 207
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_49
+  rotate: false
+  xy: 2, 2
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_50
+  rotate: false
+  xy: 364, 2
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_51
+  rotate: false
+  xy: 2, 316
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_52
+  rotate: false
+  xy: 364, 316
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+
+Transition6.png
+size: 819,774
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PartShower/Gshower_01
+  rotate: true
+  xy: 617, 58
+  size: 352, 200
+  orig: 360, 203
+  offset: 6, 3
+  index: -1
+PartShower/Gshower_02
+  rotate: true
+  xy: 412, 9
+  size: 353, 203
+  orig: 360, 203
+  offset: 7, 0
+  index: -1
+PartShower/Gshower_53
+  rotate: true
+  xy: 2, 412
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_54
+  rotate: true
+  xy: 2, 50
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_55
+  rotate: false
+  xy: 207, 569
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_56
+  rotate: true
+  xy: 569, 412
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_57
+  rotate: false
+  xy: 207, 364
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+PartShower/Gshower_58
+  rotate: true
+  xy: 207, 2
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
